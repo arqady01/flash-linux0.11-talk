@@ -5,7 +5,7 @@
 <a href="https://user-images.githubusercontent.com/25787738/141248489-c7dc20c1-cc5d-4a2d-bb5d-b5d8f9182058.jpg" target="_blank"><img src="https://img.shields.io/badge/公众号-无聊的闪客-009977.svg?style=flat-square&logo=WeChat"></a>
 </p>
 
-**目标**：带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来
+**目标**：带大家把 Linux 0.11 核心代码与操作系统的设计思想啃好啃明白🫡
 
 **首发地址**：公众号 无聊的闪客
 
